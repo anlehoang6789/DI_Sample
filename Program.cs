@@ -12,9 +12,12 @@
             //builder.Saw = saw; 
 
             //Làm theo dạng interface injection
-            BuilderInterfaceInjection builder = new BuilderInterfaceInjection();
-            builder.SetHammer(hammer); //truyền vào hammer
-            builder.SetSaw(saw); //truyền vào saw
+            //BuilderInterfaceInjection builder = new BuilderInterfaceInjection();
+            //builder.SetHammer(hammer); 
+            //builder.SetSaw(saw); 
+
+            //Constructor injection V2
+            BuilderConstructorInjectionV2 builder = new BuilderConstructorInjectionV2(hammer);
 
             builder.BuildHouse();
 
