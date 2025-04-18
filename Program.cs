@@ -18,6 +18,7 @@
 
             //Constructor injection V2
             BuilderConstructorInjectionV2 builder = new BuilderConstructorInjectionV2(hammer, saw);
+            BuilderConstructorInjectionV2 builderNew = new(new Hammer(), new Saw()); //Cách viết tắt của C# 9.0
 
             builder.BuildHouse();
 
