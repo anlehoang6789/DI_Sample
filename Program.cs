@@ -17,7 +17,7 @@
             //builder.SetSaw(saw); 
 
             //Constructor injection V2
-            BuilderConstructorInjectionV2 builder = new BuilderConstructorInjectionV2(hammer);
+            BuilderConstructorInjectionV2 builder = new BuilderConstructorInjectionV2(hammer, saw);
 
             builder.BuildHouse();
 
