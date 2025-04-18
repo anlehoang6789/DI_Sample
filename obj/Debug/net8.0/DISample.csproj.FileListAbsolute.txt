@@ -1,0 +1,14 @@
+E:\c_sharp\DISample\bin\Debug\net8.0\DISample.exe
+E:\c_sharp\DISample\bin\Debug\net8.0\DISample.deps.json
+E:\c_sharp\DISample\bin\Debug\net8.0\DISample.runtimeconfig.json
+E:\c_sharp\DISample\bin\Debug\net8.0\DISample.dll
+E:\c_sharp\DISample\bin\Debug\net8.0\DISample.pdb
+E:\c_sharp\DISample\obj\Debug\net8.0\DISample.GeneratedMSBuildEditorConfig.editorconfig
+E:\c_sharp\DISample\obj\Debug\net8.0\DISample.AssemblyInfoInputs.cache
+E:\c_sharp\DISample\obj\Debug\net8.0\DISample.AssemblyInfo.cs
+E:\c_sharp\DISample\obj\Debug\net8.0\DISample.csproj.CoreCompileInputs.cache
+E:\c_sharp\DISample\obj\Debug\net8.0\DISample.dll
+E:\c_sharp\DISample\obj\Debug\net8.0\refint\DISample.dll
+E:\c_sharp\DISample\obj\Debug\net8.0\DISample.pdb
+E:\c_sharp\DISample\obj\Debug\net8.0\DISample.genruntimeconfig.cache
+E:\c_sharp\DISample\obj\Debug\net8.0\ref\DISample.dll
